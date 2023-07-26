@@ -16,12 +16,8 @@
     width: 10%;
 }
 
-.cabecalho-lista-item {
+.cabecalho-lista-item{
     display: inline-block;
-    margin: 0 350px;
-    font-size: 18px;
-}
-
-.nre-de-goioere{
-    width: 20%;
+    margin: 0 16px;
+    font-size: 24px;
 }
