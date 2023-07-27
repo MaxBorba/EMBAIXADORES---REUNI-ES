@@ -28,3 +28,12 @@ body{
 .nre-de-goioere{
     width: 220px
 }
+
+body{
+    background-color: #05043A;
+    color: rgb(2, 177, 133);
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    padding: 24px 0;
+}
