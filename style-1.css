@@ -57,3 +57,9 @@ body{
     height: 60px;
     padding: 35px 0;
 }
+
+.rodape-imagem{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
