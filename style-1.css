@@ -59,7 +59,7 @@ body{
 }
 
 .rodape-imagem{
-    display: inline-block;
+    display: inline-flex;
     margin: 0 6px;
     font-size: 12px;
 }
