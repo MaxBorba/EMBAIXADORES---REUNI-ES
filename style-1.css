@@ -49,17 +49,11 @@ body{
 }
 
 .rodape{
-    background-color: #0a326e;
+    background-color: black;
     text-align: center;
 }
 
 .rodape-imagem{
-    height: 10px;
-    padding: 5px 0;
-}
-
-.rodape-imagem{
-    display: inline-flex;
-    margin: 0 6px;
-    font-size: 12px;
+    height: 60px;
+    padding: 12px 0;
 }
