@@ -47,3 +47,12 @@ body{
     align-items: center;
     padding: 24px
 }
+
+.rodape{
+    background-color: #0a326e;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
