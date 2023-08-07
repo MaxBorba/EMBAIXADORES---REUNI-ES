@@ -48,12 +48,12 @@ body{
     padding: 24px
 }
 
-.footer{
+.rodape{
     background-color: black;
     text-align: center;
 }
 
-.footer{
+.rodape{
     display: grid;
     grid-template-columns: 20% 5% 20%;
 }
