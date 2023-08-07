@@ -55,5 +55,5 @@ body{
 
 .footer{
     display: grid;
-    grid-template-columns: 20% 30% 20%;
+    grid-template-columns: 20% 5% 20%;
 }
