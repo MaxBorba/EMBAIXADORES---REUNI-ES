@@ -60,4 +60,5 @@ body{
 .rodape{
     display: grid;
     grid-template-columns: 20% 5% 20%;
+    justify-content: center;
 }
