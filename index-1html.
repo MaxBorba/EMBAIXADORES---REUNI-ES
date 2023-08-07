@@ -35,78 +35,30 @@
     </section>
     <section>
         <h2 class="PENSAMENTO-COMPUTACIONAL-titulo">PENSAMENTO COMPUTACIONAL - anos finais - REGULAR</h2>
-        <p class="PENSAMENTO-COMPUTACIONAL-texto-dois">ANTONIO LACERDA BRAGA - CE</p>
-        <p class="PENSAMENTO-COMPUTACIONAL-texto-dois">BANDEIRANTES DO OESTE - CEC</p>
-        <P class="PENSAMENTO-COMPUTACIONAL-texto-dois">BOSCO, DOM - EE</P>
-        <P class="PENSAMENTO-COMPUTACIONAL-texto-dois">CARLOS GOMES - CE</P>
-        <P class="PENSAMENTO-COMPUTACIONAL-texto-dois">CECÍLIA MEIRELES - CE</P>
-        <P class="PENSAMENTO-COMPUTACIONAL-texto-dois">IV CENTENÁRIO - CE</P>
-        <P class="PENSAMENTO-COMPUTACIONAL-texto-dois">JARACATIÁ - EE</P>
-        <P class="PENSAMENTO-COMPUTACIONAL-texto-dois">JARDIM UNIVERSITÁRIO - EE</P>
-        <P class="PENSAMENTO-COMPUTACIONAL-texto-dois">JOÃO MAFFEI ROSA - CE</P>
-        <P class="PENSAMENTO-COMPUTACIONAL-texto-dois">LEOPOLDINA, DONA - CEC</P>
-        <P class="PENSAMENTO-COMPUTACIONAL-texto-dois">MARIA CÂNDIDA DE JESUS - CEC</P>
-        <P class="PENSAMENTO-COMPUTACIONAL-texto-dois">MARIA GOMES BIZERRA - CEC</P>
-        <P class="PENSAMENTO-COMPUTACIONAL-texto-dois">OLAVO BILAC - CECM</P>
-        <P class="PENSAMENTO-COMPUTACIONAL-texto-dois">PALMITAL - CEC</P>
-        <P class="PENSAMENTO-COMPUTACIONAL-texto-dois">QUINTINO BOCAIÚVA - CE</P>
-        <P class="PENSAMENTO-COMPUTACIONAL-texto-dois">RIBEIRO DE CAMPOS - EE</P>
-        <P class="PENSAMENTO-COMPUTACIONAL-texto-dois">RIO VERDE - EEC</P>
-        <P class="PENSAMENTO-COMPUTACIONAL-texto-dois">SÃO JOÃO - EEC</P>
-        <P class="PENSAMENTO-COMPUTACIONAL-texto-dois">VICENTE LEPORACE - CE</P>
-        <P class="PENSAMENTO-COMPUTACIONAL-texto-dois">VILA GUAÍRA - CECM</P>
-        <P class="PENSAMENTO-COMPUTACIONAL-texto-dois">VILA SERRANA - EEC</P>   
+        <p class="PENSAMENTO-COMPUTACIONAL-texto-um">dos 30 colégios que temos 21 que atendem o PENSAMENTO COMPUTACIONAL para as turmas do 
+            8º e 9º anos do Ensino Regular</p>
             </h2>
      <section>
         <h2 class="PENSAMENTO-COMPUTACIONAL-titulo">PENSAMENTO COMPUTACIONAL - anos finais - ETIs</h2>
-        <p class="PENSAMENTO-COMPUTACIONAL-texto-dois">JORGE SCHOLL - CETI</p>
-        <p class="PENSAMENTO-COMPUTACIONAL-texto-dois">MOREIRA SALLES - EETI</p>
-        <P class="PENSAMENTO-COMPUTACIONAL-texto-dois">PEDRO II, DOM - EETI</P>
-        <P class="PENSAMENTO-COMPUTACIONAL-texto-dois">POLICAVALENTE - CETI</P>
-        <P class="PENSAMENTO-COMPUTACIONAL-texto-dois">RANCHO ALEGRE - CETI</P>
+        <p class="PENSAMENTO-COMPUTACIONAL-texto-um">Dos 30 Colégios que temos 03 atendem o PENSAMENTO COMPUTACIONAL do 6º ao 9º anos no Ensino Regular em Tempo Integral</P>
+        <p class="PENSAMENTO-COMPUTACIONAL-texto-dois">Temos 02 Colégios que atendem o PENSAMENTO COMPUTACIONAL  do 6º ao 9º anos do Ensino regular e 1ª série do
+            Ensino Médio - NEM</p>
+        <P class="PENSAMENTO-COMPUTACIONAL-texto-tres">Temos 01 colégio que atende o PENSAMENTO COMPUTACIONAL apenas para o Ensimo Médio - 1ª e 2ª séries - NEM</P>
+        </p>
     </section>
     <section>
         <h2 class="PENSAMENTO-COMPUTACIONAL-titulo">PENSAMENTO COMPUTACIONAL - 1ª série - NEM</h2>
-        <p class="PENSAMENTO-COMPUTACIONAL-texto-dois">ANOTNIO LACERDA BRAGA - CE</p>
-        <p class="PENSAMENTO-COMPUTACIONAL-texto-dois">BANDEIRANTES DO OESTE - CEC</p>
-        <p class="PENSAMENTO-COMPUTACIONAL-texto-dois">CARLOS GOMES - CE</p>
-        <p class="PENSAMENTO-COMPUTACIONAL-texto-dois">CAXIAS, Duque - CE</p>
-        <p class="PENSAMENTO-COMPUTACIONAL-texto-dois">CECÍLIA MEIRELES - CE</p>
-        <p class="PENSAMENTO-COMPUTACIONAL-texto-dois">LEOPOLDINA, DONA - CEC</p>
-        <p class="PENSAMENTO-COMPUTACIONAL-texto-dois">IV CENTENÁRIO - CE</p>
-        <p class="PENSAMENTO-COMPUTACIONAL-texto-dois">JOÃO MAFFEI ROSA - CE</p>
-        <p class="PENSAMENTO-COMPUTACIONAL-texto-dois">JOÃO TEOTHÔNIO NETTO - CE</p>
-        <p class="PENSAMENTO-COMPUTACIONAL-texto-dois">JOÃO XXIII - CE</p>
-        <p class="PENSAMENTO-COMPUTACIONAL-texto-dois">JORGE SCHOLL - CETI</p>
-        <p class="PENSAMENTO-COMPUTACIONAL-texto-dois">JOSÉ ALFREDO DE ALMEIDA - CE</p>
-        <p class="PENSAMENTO-COMPUTACIONAL-texto-dois">MARIA CÂNDIDA DE JESUS - CEC</p>
-        <p class="PENSAMENTO-COMPUTACIONAL-texto-dois">MARIA GOMES BIZERRA - CEC</p>
-        <p class="PENSAMENTO-COMPUTACIONAL-texto-dois">OLAVO BILAC - CECM</p>
-        <p class="PENSAMENTO-COMPUTACIONAL-texto-dois">PALMITAL - CEC</p>
-        <p class="PENSAMENTO-COMPUTACIONAL-texto-dois">POLIVALENTE - CETI</p>
-        <p class="PENSAMENTO-COMPUTACIONAL-texto-dois">RANCHO ALEGRE - CETI</p>
-        <p class="PENSAMENTO-COMPUTACIONAL-texto-dois">VICENTE LEPORACE - CE</p>
-        <p class="PENSAMENTO-COMPUTACIONAL-texto-dois">VILA GUAÍRA - CECM</p>
+        <p class="PENSAMENTO-COMPUTACIONAL-texto-dois">Dos 30 colégios que temos 20 atendem somente a 1ª série do Ensino Médio do NEM</p>
     <section>
         <h2 class="PROGRAMACAO-MATEMATICA-II-titulo">PROGRAMACAO-MATEMATICA-II - 2ª série - NEM</h2>
-        <p class="PROGRAMACAO-MATEMATICA-II-texto-dois">ANTONIO LACERDA BRAGA - CE</p>
-        <p class="PROGRAMACAO-MATEMATICA-II-texto-dois">CARLOS GOMES - CE</p>
-        <p class="PROGRAMACAO-MATEMATICA-II-texto-dois">CAXIAS, DUQDUE - CE</p>
-        <p class="PROGRAMACAO-MATEMATICA-II-texto-dois">CECÍLIA MEIRELES - CE</p>
-        <p class="PROGRAMACAO-MATEMATICA-II-texto-dois">IV CENTENÁRIO - CE</p>
-        <p class="PROGRAMACAO-MATEMATICA-II-texto-dois">JOÃO MAFFEI ROSA - CE</p>
-        <p class="PROGRAMACAO-MATEMATICA-II-texto-dois">JOÃO TEOTHÔNIO NETTO - CE</p>
-        <p class="PROGRAMACAO-MATEMATICA-II-texto-dois">JOÃO XXIII - CE</p>
-        <p class="PROGRAMACAO-MATEMATICA-II-texto-dois">JOSÉ ALFREDO DE ALMEIDA - CE</p>
-        <p class="PROGRAMACAO-MATEMATICA-II-texto-dois">OLAVO BILAC - CECM</p>
-        <p class="PROGRAMACAO-MATEMATICA-II-texto-dois">VICENTE LEPORACE - CE</p>
-        <p class="PROGRAMACAO-MATEMATICA-II-texto-dois">VILA GUAÍRA - CECM</p>
+        <p class="PROGRAMACAO-MATEMATICA-II-texto-dois">Dos 30 colégios que temos 12 que atendem a MATEMÁTICA II- PROGRAMAÇÃO - 2ª série do NEM </p>
     </section>
 </body>
 <footer class="rodape">
         <span></span>
         <div class="NRE"></div>
             <img class="fachada" src="fachada.png" alt="fachada do predio">
+     
      
 
 
