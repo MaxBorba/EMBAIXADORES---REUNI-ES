@@ -38,13 +38,13 @@ body{
     width: 35%;
 }
 
-.footer{
+.rodape{
     background-color: rgb(10, 13, 54);
     text-align: center;
     padding: 24px 0;
 }
 
-.footer{
+.NRE{
     display: grid;
     grid-template-columns: 20% 20% 20%;
     justify-content: center;
