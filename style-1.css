@@ -59,6 +59,6 @@ body{
 
 .footer{
     display: grid;
-    grid-template-columns: 20% 40% 20%;
+    grid-template-columns: 20% 20% 20%;
     justify-content: center;
 }
