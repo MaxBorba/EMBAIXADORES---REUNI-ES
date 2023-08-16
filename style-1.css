@@ -20,7 +20,7 @@ body{
 }
 
 .cabecalho-lista-item{
-    display: inline-block;
+    display: center;
     margin: 0 16px;
     font-size: 24px;
 }
